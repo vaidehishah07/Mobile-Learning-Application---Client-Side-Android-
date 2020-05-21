@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.activity.MLACreatePost">
+
+
+    <EditText
+
+        android:id="@+id/post_message"
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:layout_gravity="top"
+        android:ems="10"
+        android:hint="CREATE POST "
+        android:gravity="top"
+        android:inputType="textMultiLine"
+        android:paddingEnd="12dp"
+        android:paddingStart="12dp"
+        android:paddingTop="4dp"
+        />
+
+
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/floatingSendPost"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|right"
+        android:layout_marginTop="20dp"
+        android:clickable="true"
+        android:backgroundTint="@color/accent_color"
+        android:visibility="visible"
+        app:srcCompat="@drawable/ic_send_white"
+        />
+
+</LinearLayout>

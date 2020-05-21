@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "C:\\Users\\Vaidehi Shah\\Desktop\\11May_CSC258\\jinsongo-mla-android-7b143deb8a78\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_send_white.png",
+        "source": "C:\\Users\\Vaidehi Shah\\Desktop\\11May_CSC258\\jinsongo-mla-android-7b143deb8a78\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_send_white.png"
+    },
+    {
+        "merged": "C:\\Users\\Vaidehi Shah\\Desktop\\11May_CSC258\\jinsongo-mla-android-7b143deb8a78\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\btn_share.png",
+        "source": "C:\\Users\\Vaidehi Shah\\Desktop\\11May_CSC258\\jinsongo-mla-android-7b143deb8a78\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\btn_share.png"
+    },
+    {
+        "merged": "C:\\Users\\Vaidehi Shah\\Desktop\\11May_CSC258\\jinsongo-mla-android-7b143deb8a78\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_cancel_white.png",
+        "source": "C:\\Users\\Vaidehi Shah\\Desktop\\11May_CSC258\\jinsongo-mla-android-7b143deb8a78\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_cancel_white.png"
+    },
+    {
+        "merged": "C:\\Users\\Vaidehi Shah\\Desktop\\11May_CSC258\\jinsongo-mla-android-7b143deb8a78\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_add_white.png",
+        "source": "C:\\Users\\Vaidehi Shah\\Desktop\\11May_CSC258\\jinsongo-mla-android-7b143deb8a78\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_add_white.png"
+    },
+    {
+        "merged": "C:\\Users\\Vaidehi Shah\\Desktop\\11May_CSC258\\jinsongo-mla-android-7b143deb8a78\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_delete_white.png",
+        "source": "C:\\Users\\Vaidehi Shah\\Desktop\\11May_CSC258\\jinsongo-mla-android-7b143deb8a78\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_delete_white.png"
+    },
+    {
+        "merged": "C:\\Users\\Vaidehi Shah\\Desktop\\11May_CSC258\\jinsongo-mla-android-7b143deb8a78\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_edit_white.png",
+        "source": "C:\\Users\\Vaidehi Shah\\Desktop\\11May_CSC258\\jinsongo-mla-android-7b143deb8a78\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_edit_white.png"
+    },
+    {
+        "merged": "C:\\Users\\Vaidehi Shah\\Desktop\\11May_CSC258\\jinsongo-mla-android-7b143deb8a78\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_call_black.png",
+        "source": "C:\\Users\\Vaidehi Shah\\Desktop\\11May_CSC258\\jinsongo-mla-android-7b143deb8a78\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_call_black.png"
+    },
+    {
+        "merged": "C:\\Users\\Vaidehi Shah\\Desktop\\11May_CSC258\\jinsongo-mla-android-7b143deb8a78\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_done_white.png",
+        "source": "C:\\Users\\Vaidehi Shah\\Desktop\\11May_CSC258\\jinsongo-mla-android-7b143deb8a78\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_done_white.png"
+    },
+    {
+        "merged": "C:\\Users\\Vaidehi Shah\\Desktop\\11May_CSC258\\jinsongo-mla-android-7b143deb8a78\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_video_call_black.png",
+        "source": "C:\\Users\\Vaidehi Shah\\Desktop\\11May_CSC258\\jinsongo-mla-android-7b143deb8a78\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_video_call_black.png"
+    }
+]

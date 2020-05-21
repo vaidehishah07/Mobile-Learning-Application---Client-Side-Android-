@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/leavegroup_linearlayout"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="10dp"
+    android:orientation="vertical"
+    >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="10dp"
+        android:weightSum="3"
+        android:padding="6dp">
+
+
+        <TextView
+            android:id="@+id/tv_group_name"
+            android:layout_width="wrap_content"
+            android:layout_weight="2"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:layout_gravity="center_vertical"
+            android:letterSpacing="0.1"
+            android:text="NAME"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <!--TWO BUTTONS WILL BE VISIBLE HERE ACCEPT AND REJECT-->
+        <!--BUTTON CLICK OF THIS IMAGE VIEW WILL BE HANDLED IN ADAPTER-->
+        <!--<ImageView
+            android:id="@+id/mla_accept_request"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_weight="1"
+            android:layout_marginLeft="100dp"
+            android:src="@drawable/baseline_done_black_18dp" />
+-->
+        <ImageView
+            android:id="@+id/mla_leave_group"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_weight="1"
+            android:src="@drawable/baseline_clear_black_18dp" />
+
+    </LinearLayout>
+</LinearLayout>
